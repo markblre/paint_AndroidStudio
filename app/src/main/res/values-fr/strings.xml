@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="line">Ligne</string>
+    <string name="curve">Courbe</string>
+    <string name="clear">Effacer</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="color">Couleur</string>
+    <string name="red">Rouge</string>
+    <string name="blue">Bleu</string>
+    <string name="green">Vert</string>
+    <string name="validate">Valider</string>
+    <string name="reset">Réinitialiser</string>
+</resources>
